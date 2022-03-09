@@ -12,7 +12,8 @@
 
 .titulo {
     background-color: #00669f;
-    width: 968px;
+    width: 996px;
     height: 47px;
     padding: 28px;
+    padding-right: 0;
 }
